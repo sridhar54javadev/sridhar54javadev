@@ -1,4 +1,4 @@
-![Banner description](<img width="2520" height="690" alt="Image" src="https://github.com/user-attachments/assets/579a9934-cb09-4277-bdb6-b65e90476df9" />)
+![Banner description](github-header-banner.png)
 
 <h1 align="center">Hi 👋, I'm sridhar nandhakumar</h1>
 <h3 align="center">A passionate full stack java developer developer from India</h3>
