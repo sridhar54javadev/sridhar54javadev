@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm sridhar nandhakumar</h1>
 <h3 align="center">A passionate full stack java developer developer from India</h3>
-<img align="right" alt="coding" width=400 src="sri.png">
+<img align="right" alt="coding" width=400 src="sriiii.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sridhar54javadev&label=Profile%20views&color=0e75b6&style=flat" alt="sridhar54javadev" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sridhar_jav_dev" target="blank"><img src="https://img.shields.io/twitter/follow/sridhar_jav_dev?logo=twitter&style=for-the-badge" alt="sridhar_jav_dev" /></a> </p>
